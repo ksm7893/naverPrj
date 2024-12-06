@@ -1,0 +1,153 @@
+<div data-base="AView" data-class="naverProject000" class="AView-Style" style="left: 0px; top: 0px; width: 100%; height: 1700px; background-color: rgb(239, 239, 239); position: absolute;" data-browser-height="1090" data-class-map="{&quot;afc&quot;:[&quot;AView&quot;,&quot;AFlexLayout&quot;,&quot;AButton&quot;,&quot;AImage&quot;,&quot;ATextField&quot;,&quot;ALabel&quot;,&quot;ATextBox&quot;]}" data-browser-width="1670">
+    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; height: 100%; left: calc(50% - 640px); top: 0px; position: relative;" data-center-x="true">
+        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; height: 215px; left: calc(50% - 640px); top: 0px; position: relative;" data-center-x="true">
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 50%; height: 40px; align-items: stretch; left: 0px; top: 0px; position: absolute; background-color: rgb(255, 255, 255);">
+                <div style="position: relative; box-sizing: border-box;">
+                    <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 32px; height: 30px; left: 0px; top: 5px; position: relative; margin-right: 10px;">
+                        <img src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/메뉴.PNG">
+                    </button>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 33px; left: 0px; top: 5px; position: relative; width: 33px;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/Pay.PNG">
+                </div>
+            </div>
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 50%; height: 40px; align-items: stretch; top: 0px; position: absolute; right: 0px; justify-content: flex-end; background-color: rgb(255, 255, 255);">
+                <div style="position: relative; box-sizing: border-box;">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 33px; height: 33px; left: 0px; top: 5px; position: relative; margin-right: 10px;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/메세지.PNG">
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 33px; height: 33px; left: 0px; top: 5px; position: relative; margin-right: 10px;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/종.PNG">
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 33px; height: 33px; left: 0px; top: 5px; position: relative;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/장바구니.PNG">
+                </div>
+            </div>
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; align-items: center; left: 0px; top: 40px; position: absolute; height: 105px; justify-content: center; background-color: rgb(255, 255, 255);">
+                <div style="position: relative; box-sizing: border-box;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 708px; height: 60px; left: 0px; top: 0px; position: relative; background-color: rgb(255, 255, 255); border-style: solid; border-width: 1px; border-color: rgb(3, 199, 90); border-radius: 30px;">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 38px; left: 16px; top: 13px; position: relative; width: 38px; margin-left: 10px; margin-top: 0px;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/logo.PNG">
+                        <input data-base="ATextField" data-class="ATextField" type="search" value="" class="ATextField-Style" autocomplete="off" style="width: 490px; height: 40px; left: 90px; top: 10px; position: absolute; border-color: rgba(0, 0, 0, 0);" maxlength="255">
+                        <button data-base="AButton" data-class="AButton" class="AButton-Style" style="width: 60px; height: 40px; position: absolute; right: 10px; top: 11px;">
+                            <img src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/../../../Desktop/네이버 이미지/search.jpg">
+                        </button>
+                    </div>
+                </div>
+            </div>
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; height: 70px; align-items: stretch; left: 0px; position: absolute; bottom: 0px; justify-content: center; background-color: rgb(255, 255, 255); flex-wrap: nowrap;">
+                <div style="position: relative; box-sizing: border-box;" class="">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 64px; height: 68px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="height: 40px; position: relative; width: 40px; left: calc(50% - 20px); top: 0px; margin-left: 0px; margin-top: 0px; text-align: center;" src="Assets/Img/3메뉴.PNG" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-top: 0px; margin-left: 0px; text-align: center;">메일</label>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 64px; height: 68px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 40px; height: 40px; position: relative; left: calc(50% - 20px); top: 0px; margin-top: 0px; margin-left: 0px;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/3카페.PNG" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px; text-align: center; margin-top: 0px;">카페</label>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 64px; height: 68px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 40px; height: 40px; left: calc(50% - 20px); top: 0px; position: relative; text-align: center;" src="Assets/Img/3블로그.PNG" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px; text-align: center; margin-top: 0px;">블로그</label>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 64px; height: 68px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 40px; height: 40px; left: calc(50% - 20px); top: 0px; position: relative; text-align: center;" src="Assets/Img/3스토어.PNG" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px; text-align: center; margin-top: 0px;">스토어</label>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 64px; height: 68px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 40px; height: 40px; left: calc(50% - 20px); top: 0px; position: relative; text-align: center;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/3뉴스.PNG" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px; text-align: center; margin-top: 0px;">뉴스</label>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 64px; height: 68px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 40px; height: 40px; left: calc(50% - 20px); top: 0px; position: relative;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/3증권.PNG" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px; text-align: center; margin-top: 0px;">증권</label>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 64px; height: 68px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 40px; height: 40px; left: calc(50% - 20px); top: 0px; position: relative; margin-left: 0px; margin-top: 0px;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/3부동산.PNG" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px; text-align: center; margin-top: 0px;">부동산</label>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 64px; height: 68px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 40px; height: 40px; left: calc(50% - 20px); top: 0px; position: relative;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/3지도.PNG" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px; text-align: center; margin-top: 0px;">지도</label>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 64px; height: 68px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 40px; height: 40px; left: calc(50% - 20px); top: 0px; position: relative;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/3웹툰.PNG" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px; text-align: center; margin-top: 0px;">웹툰</label>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 64px; height: 68px; position: relative; left: 0px; top: 0px; background-color: rgb(255, 255, 255);">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 40px; height: 40px; left: calc(50% - 20px); top: 0px; position: relative;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/치지직.PNG" data-center-x="true">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 100%; height: auto; position: relative; left: 0px; top: 0px; margin-left: 0px; text-align: center; margin-top: 0px;">치지직</label>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box;">
+                    <img data-base="AImage" data-class="AImage" class="AImage-Style" style="width: 40px; height: 40px; position: relative; left: 0px; top: 0px;" src="C:/Users/cross_81/Documents/SpiderGenWorkspace/SampleNaver/Assets/Img/3더보기.PNG">
+                </div>
+            </div>
+        </div>
+        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; height: 215px; left: calc(50% - 640px); position: relative; bottom: 0px; padding-bottom: 215px; min-height: 100%; background-color: rgb(0, 0, 255);" data-center-x="true">
+        </div>
+    </div>
+    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 100%; height: 400px; left: 0px; top: 0px; position: relative;">
+        <div data-base="AView" data-class="AView" class="AView-Style" style="width: 1280px; height: 100%; position: absolute; left: calc(50% - 640px); bottom: 0px; background-color: rgb(255, 255, 255);" data-center-x="true">
+            <div data-base="AFlexLayout" data-class="AFlexLayout" class="AFlexLayout-Style" style="width: 100%; position: absolute; left: 0px; top: 0px; height: 160px; place-content: center;">
+                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 160px; height: 100%; position: relative; left: 0px; top: 0px; margin-left: 0px; margin-top: 2.00004px;">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px;">
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto; padding: 5px 3px 0px 18px;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 155px; position: relative; left: 0px; top: 0px; text-align: center; margin-left: 0px; margin-top: 0px;">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 90px; height: auto; position: relative; left: 89px; top: 0px; text-align: left; margin-left: -324px; margin-top: 20px; background-color: rgba(0, 0, 0, 0.64); color: rgb(255, 255, 255); font-size: 20px;">Label</label>
+                        <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 100%; height: 90px; position: relative; left: 0px; top: 50px; font-size: 13px; margin-top: -40px; margin-left: 0px; text-align: left;">Be thankful for what you have.
+you will end up having more.
+If you concentrate on what you do not have,
+you will never, ever have enough</pre>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 160px; height: 100%; position: relative; left: 0px; top: 0px; margin-top: 2.00003px; margin-left: 0px;">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px;">
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto; padding: 5px 3px 0px 18px;" class="">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 100%; position: relative; left: 0px; top: 0px; margin-left: 0px;">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 90px; height: auto; position: relative; left: 89px; top: 0px; text-align: left; margin-left: -90px; margin-top: 20px; background-color: rgba(0, 0, 0, 0.64); color: rgb(255, 255, 255); font-size: 20px;">Label</label>
+                        <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 100%; height: 90px; position: relative; left: 0px; top: 50px; font-size: 13px; margin-top: -40px; margin-left: 0px;">Be thankful for what you have.
+you will end up having more.
+If you concentrate on what you do not have,
+you will never, ever have enough</pre>
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 160px; height: 100%; position: relative; left: 0px; top: 0px; margin-left: 0px;">
+                        <img data-base="AImage" data-class="AImage" class="AImage-Style aimage-blank" style="width: 100%; height: 100%; position: absolute; left: 0px; top: 0px;">
+                    </div>
+                </div>
+                <div style="position: relative; box-sizing: border-box; flex-shrink: 1; flex-basis: auto; align-self: auto; padding: 5px 3px 0px 18px;">
+                    <div data-base="AView" data-class="AView" class="AView-Style" style="width: 240px; height: 100%; position: relative; left: 0px; top: 0px;">
+                        <label data-base="ALabel" data-class="ALabel" class="ALabel-Style" style="width: 90px; height: auto; position: relative; left: 89px; top: 0px; text-align: left; margin-left: -90px; margin-top: 20px; background-color: rgba(0, 0, 0, 0.64); color: rgb(255, 255, 255); font-size: 20px;">Label</label>
+                        <pre data-base="ATextBox" data-class="ATextBox" class="ATextBox-Style" style="width: 100%; height: 90px; position: relative; left: 0px; top: 50px; font-size: 13px; margin-top: -40px; margin-left: 0px;">Be thankful for what you have.
+you will end up having more.
+If you concentrate on what you do not have,
+you will never, ever have enough</pre>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
