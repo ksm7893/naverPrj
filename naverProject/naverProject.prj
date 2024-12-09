@@ -31,7 +31,16 @@
           {
             "type": 1,
             "name": "Theme",
-            "children": []
+            "children": [
+              {
+                "type": 4,
+                "name": "foot.stl",
+                "action": 8,
+                "relType": 1,
+                "path": "Template\\Theme\\",
+                "comment": ""
+              }
+            ]
           },
           {
             "type": 4,
