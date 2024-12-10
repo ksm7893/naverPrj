@@ -1,0 +1,7 @@
+{
+  "styleName": "naverbtn",
+  "items": {
+    "edit_here": "\n.edit_here\n{\n\t/* TODO:edit here */\n\n}\n",
+    "loginbtn": ".loginbtn\n{\n\tbackground-color: rgb(3, 199, 90);\n\tborder-radius: 5px;\n\tfont-size: 15px;\n\tfont-weight: normal;\n\tbackground-repeat: no-repeat;\n\tbackground-size: auto auto;\n}\n\n"
+  }
+}
